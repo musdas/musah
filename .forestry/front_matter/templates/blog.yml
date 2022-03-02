@@ -34,3 +34,5 @@ fields:
     schema:
       format: markdown
   label: pos
+pages:
+- content/post/lirik-lagu-los-dol.md
